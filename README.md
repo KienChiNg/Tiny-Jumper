@@ -1,3 +1,12 @@
-Player interface!
-[z4043195588508_6df4d2b7f71bd57e87591edaa1abd490](https://user-images.githubusercontent.com/106145545/212624491-11534798-5fe4-45a3-a575-29e18065900c.jpg)!
-[z4043195591191_5a9060d89d1e581861820c424a50c813](https://user-images.githubusercontent.com/106145545/212624500-7412a69c-a402-49d0-81cf-39cbbe189eff.jpg)
+First mini game project
+
+-Menu
+
+![Menu](https://github.com/KienChiNg/Tiny_Jumper/assets/106145545/9ceea041-e9ab-4d43-bbc9-a7568524c604)
+
+-Interface
+
+![GamePlay](https://github.com/KienChiNg/Tiny_Jumper/assets/106145545/6d0c585e-2fcb-4297-b858-d3e9ed406295)
+
+
+
